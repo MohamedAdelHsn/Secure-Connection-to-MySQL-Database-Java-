@@ -1,1 +1,1 @@
-## Secure Connection to remote Database MySQL-Java
+## Secure Connection to MySQL Database using JDBC in Java
